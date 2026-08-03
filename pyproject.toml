@@ -1,3 +1,8 @@
+[project.urls]
+Homepage = "https://www.seosiri.com/2026/08/search-governance-mcp.html"
+Documentation = "https://www.seosiri.com/2026/07/seosiri-mcp-servers.html"
+Repository = "https://github.com/SEOSiri-Official/search-governance-mcp.git"
+
 [project]
 name = "seosiri-search-governance-mcp"
 version = "1.0.0"
@@ -20,11 +25,6 @@ dependencies = [
     "fastapi>=0.110.0",
     "uvicorn>=0.31.1"
 ]
-
-[project.urls]
-Homepage = "https://www.seosiri.com/2026/08/search-governance-mcp.html"
-Documentation = "https://www.seosiri.com/2026/07/seosiri-mcp-servers.html"
-Repository = "https://github.com/SEOSiri-Official/search-governance-mcp.git"
 
 [build-system]
 requires = ["setuptools>=77.0.0"]
